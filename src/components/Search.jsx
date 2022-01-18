@@ -22,18 +22,18 @@ class Search extends Component {
   render() {
     const { search } = this.state;
     return (
-      <div classNameName="row">
-        <div classNameName="input-field">
+      <div className="row">
+        <div className="input-field">
           <input
             placeholder="Search"
             type="search"
-            classNameName="validate"
+            className="validate"
             value={search}
             onChange={(event) => this.setState({ search: event.target.value })}
             onKeyDown={this.handleKey}
           />
           <button
-            classNameName="btn search-btn"
+            className="btn search-btn"
             onClick={() =>
               this.props.searchMovies(this.state.search, this.state.type)
             }
