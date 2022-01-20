@@ -1,3 +1,10 @@
+Проект, в рамках которого реализован сервис по поиску фильмов, сериалов
+Реализована выдача списка фильмов, асинхронные запросы, поиск по названию и фильтрация 
+Для стилей использовалась библиотека Materializecss
+OMDb API - открытая база данных про фильмы, оттуда были получены названия для фильмов,постеры,тип(фильм или сериал).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
