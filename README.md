@@ -1,6 +1,6 @@
 # React Movie Portfolio project
 
-[Demo](https://nkozlovskaya.github.io/react-shop)
+[Demo](https://nkozlovskaya.github.io/movie-project)
 
 Проект, в рамках которого реализован сервис по поиску фильмов, сериалов. 
 Также выполнена выдача списка фильмов, асинхронные запросы, поиск по названию и фильтрация по жанру.
